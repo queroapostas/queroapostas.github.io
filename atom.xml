@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dicas de apostas</title>
+  
+  <subtitle>Sugestões de apostas para você ter o maior lucro!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://queroapostas.github.io/"/>
+  <updated>2018-09-01T17:48:38.375Z</updated>
+  <id>https://queroapostas.github.io/</id>
+  
+  <author>
+    <name>Dicas de apostas</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first-post</title>
+    <link href="https://queroapostas.github.io/01/09/2018/first-post/"/>
+    <id>https://queroapostas.github.io/01/09/2018/first-post/</id>
+    <published>2018-09-01T17:48:38.000Z</published>
+    <updated>2018-09-01T17:48:38.375Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
